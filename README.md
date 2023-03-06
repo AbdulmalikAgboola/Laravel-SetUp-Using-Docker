@@ -1,5 +1,5 @@
 # Laravel-SetUp-Using-Docker
-efore you start, you will need;
+Before you start, you will need;
 1. A running ubuntu operating system download or you can use a cloud provider
 2. You must have docker installed, etc
 Step1 - Download laravel and it's dependencies
